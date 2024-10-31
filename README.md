@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'am MJK 👋
 
 <!--
 **mj99k14/mj99k14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+pip install -r requirements.txt
+uvicorn main:app --reload
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
