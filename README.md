@@ -1,7 +1,11 @@
-## Hi I'am MJK 👋
+## 
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Min-Jung's+GitHub!🐼👋)](https://git.io/typing-svg)
 
 
-**mj99k14/mj99k14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
@@ -16,6 +20,15 @@
   <a href="mailto:ekfkawnl644@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mj99k14&hide=contribs,prs&show_icons=true&theme=테마)
 
+<a href="https://github.com/mj99k14/convoychat">
+<a href="https://github.com/mj99k14/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mj99k14" />
+</a>
+<a href="https://github.com/mj99k14/convoychat">
 
+</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mj99k14&layout=donut)](https://github.com/mj99k14/github-readme-stats)
+
+</a>
