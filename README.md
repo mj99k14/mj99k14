@@ -5,7 +5,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Min-Jung's+GitHub!🐼👋)](https://git.io/typing-svg)
 
 
+# KMJ!
+ 👨‍🎓 **University Student**
+- 🗣️ **Languages**: Korean, Japanese
+- 🎓 **Education**: Bachelor’s in Economics, Fuji University, Japan
+- 📧 **Contact**: [ekfkawnl644@gmail.com](mailto:ekfkawnl644@gmail.com)
 
+
+
+![ydmins logo](https://path-to-your-logo-image/logo.png)
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
