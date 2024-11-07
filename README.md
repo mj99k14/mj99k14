@@ -7,6 +7,7 @@
 # 🐇 KMJ! 🍀
 
 👨‍🎓 **University Student** (Currently enrolled at Youngjin Junior College)
+🏀 Professional Basketball Player (Samsung, Retired)
 - 🗣️ **Languages**: 🇰🇷 Korean, 🇯🇵 Japanese
 - 🎓 **Education**: Bachelor’s in Economics, Fuji University, Japan
 - 📧 **Contact**: [ekfkawnl644@gmail.com](mailto:ekfkawnl644@gmail.com)
