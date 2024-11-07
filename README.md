@@ -6,18 +6,20 @@
 
 # 🐇 KMJ! 🍀
 
-👨‍🎓 **University Student** (Currently enrolled at Youngjin Junior College)
-🏀 Professional Basketball Player (Samsung, Retired)
-- 🗣️ **Languages**: 🇰🇷 Korean, 🇯🇵 Japanese
-- 🎓 **Education**: Bachelor’s in Economics, Fuji University, Japan
-- 📧 **Contact**: [ekfkawnl644@gmail.com](mailto:ekfkawnl644@gmail.com)
+👨‍🎓 **University Student** (Currently enrolled at Youngjin Junior College) <br>
+🏀 **Professional Basketball Player (Samsung, Retired)** <br>
+🗣️ **Languages**: 🇰🇷 Korean, 🇯🇵 Japanese <br>
+🎓 **Education**: Bachelor’s in Economics, Fuji University, Japan <br>
+📧 **Contact**: [ekfkawnl644@gmail.com](mailto:ekfkawnl644@gmail.com) <br>
 
----
-### 🌐 Let's Connect
+---  
+### 🌐 Let's Connect  
 
- [GitHub](https://github.com/mj99k14)
+[GitHub](https://github.com/mj99k14)  
 
 <div style="text-align: center; font-size: 30px; font-weight: bold; color: #666;">KMJ</div>
+
+
 
 
 
