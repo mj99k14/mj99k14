@@ -37,10 +37,11 @@
 
 <h3 align="center">✨ GitHub Stats ✨</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mj99k14&show_icons=true&theme=calm"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mj99k14&layout=compact&theme=calm"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=mj99k14&show_icons=true&hide_border=true&theme=dracula&count_private=true&include_all_commits=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mj99k14&layout=compact&hide_border=true&theme=dracula" width="48%"/>
+</div>
 </p>
-</p>
+
 
 ---
 
