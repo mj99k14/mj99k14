@@ -22,8 +22,12 @@
   </a>&nbsp;
   <a href="mailto:ekfkawnl644@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://zenn.dev/kmj13zenn">
+    <img src="https://img.shields.io/badge/Zenn-3EA8FF?style=flat-square&logo=zenn&logoColor=white"/>
   </a>
 </p>
+
 
 ---
 
