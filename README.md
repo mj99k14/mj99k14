@@ -1,5 +1,5 @@
-<!-- 상단 배너 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=Welcome%20to%20Min-Jung's%20GitHub!&animation=twinkling&height=160&fontSize=40&fontColor=ffffff)
+<!-- 상단 배너: 더 크게 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=Welcome%20to%20Min-Jung's%20GitHub!&animation=twinkling&height=200&fontSize=60&fontColor=ffffff)
 
 <!-- 이름 -->
 <h1 align="center">🐼 Kim Min-Jung 🍀</h1>
@@ -48,10 +48,11 @@
 
 ---
 
+<!-- GitHub Stats & Top Langs 한 줄 정렬 -->
 <h3 align="center">✨ GitHub Stats ✨</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mj99k14&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mj99k14&layout=compact&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mj99k14&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" style="display:inline-block; width:49%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mj99k14&layout=compact&theme=radical&hide_border=true" style="display:inline-block; width:49%;"/>
 </p>
 
 ---
