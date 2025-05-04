@@ -50,7 +50,7 @@
 
 ## ✨ GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mj99k14&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=mj99k14&theme=react&hide_border=true&ring=F49AC2&fire=F49AC2&currStreakLabel=F49AC2" alt="GitHub Streak"/>
 </p>
 
 ---
