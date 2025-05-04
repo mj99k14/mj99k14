@@ -47,6 +47,13 @@
 
 ---
 
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-activity-graph.vercel.app/graph?username=mj99k14&theme=github-light&color=6994CD&line=88B4E7&point=1E70BF&area=true&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+---
+
 ## ✨ GitHub Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mj99k14&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
@@ -56,14 +63,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mj99k14&theme=gruvbox&no-frame=true&title=Commit,Followers,Repositories,Experience" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-activity-graph.vercel.app/graph?username=mj99k14&theme=tokyo-night" alt="Contribution Graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mj99k14&theme=transparent&no-frame=true&margin-w=15&column=4&title=Commit,Followers,Repositories,Experience" alt="GitHub Trophies"/>
 </p>
 
 ---
