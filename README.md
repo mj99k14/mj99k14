@@ -28,17 +28,26 @@
   </a>
 </p>
 
-
 ---
 
 <h3 align="center">📚 Tech Stack 📚</h3>
+
+### 🛠️ Backend
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>&nbsp;
+</p>
+
+### 🎨 Frontend
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>&nbsp;
+</p>
+
+### ⚙️ Tools & Others
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>&nbsp;
 </p>
 
 ---
@@ -47,9 +56,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mj99k14&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mj99k14&layout=compact&theme=radical&hide_border=true"/>
-</div>
 </p>
-
 
 ---
 
@@ -70,4 +77,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mj99k14&style=flat-square&color=blue" alt="visitor badge"/>
 </p>
-
