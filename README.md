@@ -1,19 +1,20 @@
-<!-- 상단 헤더 배너 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&height=100&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=Welcome%20to%20Min-Jung's%20GitHub!&animation=twinkling&height=150&fontColor=ffffff)
 
-# 🐑 Kim Min-Jung 🍀
+<h1 align="center">🐼 Kim Min-Jung 🍀</h1>
 
-- 🎓 **University Student** (Currently enrolled at Youngjin Junior College)  
-- 🏀 **Former Professional Basketball Player** (Samsung, Retired)  
-- 🗣️ **Languages**: 🇰🇷 Korean, 🇯🇵 Japanese  
-- 🎓 **Education**: Bachelor’s in Economics, Fuji University, Japan  
-- 📧 **Contact**: [ekfkawnl644@gmail.com](mailto:ekfkawnl644@gmail.com)
+<p align="center">
+  🎓 <b>Youngjin Junior College</b> Student &nbsp;|&nbsp;
+  🏀 <b>Former Samsung Basketball Player</b> &nbsp;|&nbsp;
+  🌍 <b>KR 🇰🇷 / JP 🇯🇵</b> Speaker &nbsp;|&nbsp;
+  🎓 <b>Fuji Univ. Econ Graduate</b> &nbsp;|&nbsp;
+  📧 <a href="mailto:ekfkawnl644@gmail.com">ekfkawnl644@gmail.com</a>
+</p>
 
 ---
 
-## 🌐 Let's Connect 🌐
+## 🌐 Let's Connect
 
-<p>
+<p align="center">
   <a href="https://github.com/mj99k14">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
@@ -32,32 +33,39 @@
 
 ## 🧰 Tech Stack
 
-### 🛠️ Backend
-<p>
+### 🛠️ Backend &nbsp;&nbsp;&nbsp;&nbsp;🎨 Frontend &nbsp;&nbsp;&nbsp;&nbsp;⚙️ Tools
+
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
-</p>
-
-### 🎨 Frontend
-<p>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
-</p>
-
-### ⚙️ Tools & Languages
-<p>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+<h3 align="center">✨ GitHub Stats ✨</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mj99k14&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mj99k14&layout=compact&theme=radical&hide_border=true"/>
+</p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mj99k14&show_icons=true&theme=default&hide_border=false"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mj99k14&layout=compact&theme=default&hide_border=false"/>
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mj99k14&theme=radical&no-bg=true&no-frame=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-activity-graph.vercel.app/graph?username=mj99k14&theme=github-dark"/>
 </p>
 
 ---
