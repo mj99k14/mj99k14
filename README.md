@@ -1,6 +1,6 @@
 <!-- 상단 배너 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&text=Welcome%20to%20Min-Jung's%20GitHub!&fontSize=40&fontColor=FFFFFF" width="1000"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6994CD&text=Welcome%20to%20Min-Jung's%20GitHub!&animation=twinkling&height=200&fontSize=55&fontColor=ffffff&textAlign=center" width="1000"/>
 </p>
 
 <!-- 이름 -->
@@ -50,35 +50,30 @@
 
 ---
 
-<h3 align="center">✨ GitHub Stats ✨</h3>
+## ✨ GitHub Stats
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=mj99k14&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="450"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mj99k14&layout=compact&theme=radical&hide_border=true" width="450"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mj99k14&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mj99k14&theme=radical&no-bg=true&no-frame=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mj99k14&theme=tokyonight&no-frame=true" alt="GitHub Trophies"/>
 </p>
 
 ---
 
 ## 📈 Contribution Graph
+
 <p align="center">
-  <img src="https://github-activity-graph.vercel.app/graph?username=mj99k14&theme=github-dark"/>
+  <img src="https://github-activity-graph.vercel.app/graph?username=mj99k14&theme=tokyo-night" alt="Contribution Graph"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mj99k14&style=flat-square&color=blue" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=mj99k14&style=flat-square&color=blue" alt="Visitor Badge"/>
 </p>
