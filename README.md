@@ -66,9 +66,5 @@
   <img src="https://komarev.com/ghpvc/?username=mj99k14&style=flat-square&color=blue" alt="Visitor Badge"/>
 </p>
 
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-activity-graph.vercel.app/graph?username=mj99k14&theme=github-light&color=6994CD&line=88B4E7&point=1E70BF&area=true&hide_border=true" alt="Contribution Graph"/>
-</p>
 
 ---
