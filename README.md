@@ -1,24 +1,21 @@
-<!-- 상단 배너 -->
+<!-- 평소보다 클게 나오는 상단 배너 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6994CD&text=Welcome%20to%20Min-Jung's%20GitHub!&animation=twinkling&height=200&fontSize=55&fontColor=ffffff&textAlign=center" width="1000"/>
 </p>
 
-<!-- 이름 -->
 <h1 align="center">🐼 Kim Min-Jung 🍀</h1>
 
-<!-- 소개 -->
 <p align="center">
   🎓 <b>Fuji University</b> Economics Graduate &nbsp;|&nbsp;
   🎓 <b>Youngjin Junior College</b> Student &nbsp;|&nbsp;
   🏀 <b>Former Samsung Basketball Player</b> &nbsp;|&nbsp;
-  🌐 KR 🇰🇷 / JP 🇯🇵 &nbsp;|&nbsp;
+  🌐 KR 🇰 / JP 🇯 &nbsp;|&nbsp;
   📧 <a href="mailto:ekfkawnl644@gmail.com">ekfkawnl644@gmail.com</a>
 </p>
 
 ---
 
 ## 🌐 Let's Connect
-
 <p align="center">
   <a href="https://github.com/mj99k14"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="https://www.instagram.com/minjung_K13/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
@@ -28,7 +25,7 @@
 
 ---
 
-## 🧰 Tech Stack
+## 🔧 Tech Stack
 
 ### 🛠️ Backend
 <p align="center">
@@ -51,7 +48,6 @@
 ---
 
 ## ✨ GitHub Stats
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mj99k14&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
@@ -59,15 +55,13 @@
 ---
 
 ## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mj99k14&theme=tokyonight&no-frame=true" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mj99k14&theme=gruvbox&no-frame=true&title=Commit,Followers,Repositories,Experience" alt="GitHub Trophies"/>
 </p>
 
 ---
 
 ## 📈 Contribution Graph
-
 <p align="center">
   <img src="https://github-activity-graph.vercel.app/graph?username=mj99k14&theme=tokyo-night" alt="Contribution Graph"/>
 </p>
