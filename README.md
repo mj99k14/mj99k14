@@ -1,11 +1,14 @@
+<!-- 상단 배너 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=Welcome%20to%20Min-Jung's%20GitHub!&animation=twinkling&height=150&fontColor=ffffff)
 
+<!-- 이름 -->
 <h1 align="center">🐼 Kim Min-Jung 🍀</h1>
 
+<!-- 소개 -->
 <p align="center">
   🎓 <b>Youngjin Junior College</b> Student &nbsp;|&nbsp;
   🏀 <b>Former Samsung Basketball Player</b> &nbsp;|&nbsp;
-  🌍 <b>KR 🇰🇷 / JP 🇯🇵</b> Speaker &nbsp;|&nbsp;
+  🌐 <b>KR 🇰🇷 / JP 🇯🇵</b> Speaker &nbsp;|&nbsp;
   🎓 <b>Fuji Univ. Econ Graduate</b> &nbsp;|&nbsp;
   📧 <a href="mailto:ekfkawnl644@gmail.com">ekfkawnl644@gmail.com</a>
 </p>
