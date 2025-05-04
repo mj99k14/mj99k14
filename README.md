@@ -1,6 +1,7 @@
-<!-- 상단 배너: 더 크게 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=Welcome%20to%20Min-Jung's%20GitHub!&animation=twinkling&height=200&fontSize=55&fontColor=ffffff&textAlign=center)
-
+<!-- 상단 배너 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&text=Welcome%20to%20Min-Jung's%20GitHub!&fontSize=40&fontColor=FFFFFF" width="1000"/>
+</p>
 
 <!-- 이름 -->
 <h1 align="center">🐼 Kim Min-Jung 🍀</h1>
