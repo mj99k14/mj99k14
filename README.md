@@ -47,7 +47,6 @@
 
 ---
 
-
 ## ✨ GitHub Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mj99k14&theme=react&hide_border=true&ring=F49AC2&fire=F49AC2&currStreakLabel=F49AC2" alt="GitHub Streak"/>
@@ -61,15 +60,22 @@
 </p>
 
 ---
+
 ## 👀 Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mj99k14&style=flat-square&color=blue" alt="Visitor Badge"/>
 </p>
-
 
 ---
 
 ## 📈 Contribution Graph
 <p align="center">
   <img src="https://github-activity-graph.vercel.app/graph?username=mj99k14&theme=github-light&color=6994CD&line=88B4E7&point=1E70BF&area=true&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+---
+
+## 🧊 3D Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JeongJaeSoon/profile-3d-contrib/main/profile-night-green.svg" />
 </p>
