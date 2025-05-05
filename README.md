@@ -75,7 +75,4 @@
 
 ---
 
-## 🧊 3D Contribution Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JeongJaeSoon/profile-3d-contrib/main/profile-night-green.svg" />
-</p>
+
