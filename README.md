@@ -9,9 +9,10 @@
   🎓 <b>Fuji University</b> Economics Graduate &nbsp;|&nbsp;
   🎓 <b>Youngjin Junior College</b> Student &nbsp;|&nbsp;
   🏀 <b>Former Samsung Basketball Player</b> &nbsp;|&nbsp;
-  🌐 <b>KR 🇰 / JP 🇯</b> &nbsp;|&nbsp;
+  🌐 <span style="display:inline-block; min-width:40px;">KR 🇰</span> / <span style="display:inline-block; min-width:40px;">JP 🇯</span> &nbsp;|&nbsp;
   📧 <a href="mailto:ekfkawnl644@gmail.com">ekfkawnl644@gmail.com</a>
 </p>
+
 
 ---
 
