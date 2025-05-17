@@ -24,10 +24,10 @@
 
 ## 🌐 Let's Connect
 <p align="center">
-  <a href="https://github.com/mj99k14"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://www.instagram.com/minjung_K13/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="mailto:ekfkawnl644@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://zenn.dev/kmj13"><img src="https://img.shields.io/badge/Zenn-3EA8FF?style=flat-square&logo=zenn&logoColor=white"/></a>
+  <a href="https://github.com/mj99k14"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/></a>
+  <a href="https://www.instagram.com/minjung_K13/"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" height="40"/></a>
+  <a href="mailto:ekfkawnl644@gmail.com"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" height="40"/></a>
+  <a href="https://zenn.dev/kmj13"><img src="https://raw.githubusercontent.com/zenn-dev/zenn-icons/main/logo.svg" width="40" height="40"/></a>
 </p>
 
 ---
