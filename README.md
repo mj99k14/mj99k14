@@ -1,3 +1,5 @@
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6994CD&text=Welcome%20to%20Min-Jung's%20GitHub!&animation=twinkling&height=250&fontSize=60&fontColor=FFFFFF&fontAlign=center" width="1000"/>
 </p>
@@ -53,37 +55,37 @@
 ### 🎨 Frontend
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
-  <br><span style="font-size:14px">HTML5</span>
-  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
-  <br><span style="font-size:14px">CSS3</span>
-  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
-  <br><span style="font-size:14px">JavaScript</span>
-  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="60" height="60"/>
-  <br><span style="font-size:14px">Vue.js</span>
+</p>
+<p align="center">
+  <span style="font-size:14px">HTML5</span>&nbsp;&nbsp;
+  <span style="font-size:14px">CSS3</span>&nbsp;&nbsp;
+  <span style="font-size:14px">JavaScript</span>&nbsp;&nbsp;
+  <span style="font-size:14px">Vue.js</span>
 </p>
 
 ### 🛠️ Backend
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60"/>
-  <br><span style="font-size:14px">Node.js</span>
-  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60"/>
-  <br><span style="font-size:14px">Express</span>
-  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60"/>
-  <br><span style="font-size:14px">PHP</span>
+</p>
+<p align="center">
+  <span style="font-size:14px">Node.js</span>&nbsp;&nbsp;
+  <span style="font-size:14px">Express</span>&nbsp;&nbsp;
+  <span style="font-size:14px">PHP</span>
 </p>
 
 ### ⚙️ Tools & Language
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
-  <br><span style="font-size:14px">Python</span>
-  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/>
-  <br><span style="font-size:14px">Java</span>
+</p>
+<p align="center">
+  <span style="font-size:14px">Python</span>&nbsp;&nbsp;
+  <span style="font-size:14px">Java</span>
 </p>
 
 ---
