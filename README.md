@@ -1,4 +1,4 @@
-
+<!-- 상단 배너 + 자기소개 + 역할별 Tech Stack + 큰 아이콘 + 넓은 간격 -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6994CD&text=Welcome%20to%20Min-Jung's%20GitHub!&animation=twinkling&height=250&fontSize=60&fontColor=FFFFFF&fontAlign=center" width="1000"/>
@@ -53,39 +53,39 @@
 ## 🧰 Tech Stack
 
 ### 🎨 Frontend
-<p align="center" style="gap: 80px; display: flex; justify-content: center; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="60" height="60"/>
+<p align="center" style="gap: 60px; display: flex; justify-content: center; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="80" height="80"/>
 </p>
-<p align="center" style="margin-bottom: 30px;">
-  <span style="font-size:14px;margin: 0 30px;">HTML5</span>
-  <span style="font-size:14px;margin: 0 30px;">CSS3</span>
-  <span style="font-size:14px;margin: 0 30px;">JavaScript</span>
-  <span style="font-size:14px;margin: 0 30px;">Vue.js</span>
+<p align="center" style="margin-bottom: 40px; font-size:16px;">
+  <span style="margin: 0 40px;">HTML5</span>
+  <span style="margin: 0 40px;">CSS3</span>
+  <span style="margin: 0 40px;">JavaScript</span>
+  <span style="margin: 0 40px;">Vue.js</span>
 </p>
 
 ### 🛠️ Backend
-<p align="center" style="gap: 40px; display: flex; justify-content: center; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60"/>
+<p align="center" style="gap: 60px; display: flex; justify-content: center; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="80" height="80"/>
 </p>
-<p align="center" style="margin-bottom: 30px;">
-  <span style="font-size:14px;margin: 0 30px;">Node.js</span>
-  <span style="font-size:14px;margin: 0 30px;">Express</span>
-  <span style="font-size:14px;margin: 0 30px;">PHP</span>
+<p align="center" style="margin-bottom: 40px; font-size:16px;">
+  <span style="margin: 0 40px;">Node.js</span>
+  <span style="margin: 0 40px;">Express</span>
+  <span style="margin: 0 40px;">PHP</span>
 </p>
 
 ### ⚙️ Tools & Language
-<p align="center" style="gap: 40px; display: flex; justify-content: center; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/>
+<p align="center" style="gap: 60px; display: flex; justify-content: center; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80" height="80"/>
 </p>
-<p align="center" style="margin-bottom: 30px;">
-  <span style="font-size:14px;margin: 0 30px;">Python</span>
-  <span style="font-size:14px;margin: 0 30px;">Java</span>
+<p align="center" style="margin-bottom: 40px; font-size:16px;">
+  <span style="margin: 0 40px;">Python</span>
+  <span style="margin: 0 40px;">Java</span>
 </p>
 
 ---
