@@ -25,7 +25,7 @@
 ## 🌐 Let's Connect
 <p align="center">
   <a href="https://github.com/mj99k14">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="28"/>
   </a>
   <a href="https://www.instagram.com/minjung_K13/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="28"/>
