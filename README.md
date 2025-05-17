@@ -28,10 +28,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
   </a>
   <a href="https://www.instagram.com/minjung_K13/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="28"/>
   </a>
   <a href="mailto:ekfkawnl644@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="28"/>
   </a>
   <a href="https://zenn.dev/kmj13">
     <img src="https://img.shields.io/badge/Zenn-3EA8FF?style=flat&logo=zenn&logoColor=white" height="28"/>
