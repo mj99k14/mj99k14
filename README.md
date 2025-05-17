@@ -1,4 +1,4 @@
-<!-- 상단 배너 + 자기소개 + 역할별 Tech Stack + 일자 배치 + 여백 추가 -->
+<!-- 상단 배너 + 자기소개 + 역할별 Tech Stack + 간격 넉넉히 정렬 -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6994CD&text=Welcome%20to%20Min-Jung's%20GitHub!&animation=twinkling&height=250&fontSize=60&fontColor=FFFFFF&fontAlign=center" width="1000"/>
@@ -35,13 +35,13 @@
 ## 🌐 Let's Connect
 <p align="center" style="margin-top: 10px;">
   <a href="https://github.com/mj99k14">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="28" style="margin-right: 12px;"/>
   </a>
   <a href="https://www.instagram.com/minjung_K13/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="28" style="margin-right: 12px;"/>
   </a>
   <a href="mailto:ekfkawnl644@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="28" style="margin-right: 12px;"/>
   </a>
   <a href="https://zenn.dev/kmj13">
     <img src="https://img.shields.io/badge/Zenn-3EA8FF?style=flat&logo=zenn&logoColor=white" height="28"/>
@@ -53,39 +53,39 @@
 ## 🧰 Tech Stack
 
 ### 🎨 Frontend
-<p align="center" style="margin-bottom: 6px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="60" height="60"/>
+<p align="center" style="margin-bottom: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" style="margin: 0 20px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" style="margin: 0 20px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" style="margin: 0 20px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="60" height="60" style="margin: 0 20px;"/>
 </p>
-<p align="center">
-  <span style="font-size:14px;margin-right:20px;">HTML5</span>
-  <span style="font-size:14px;margin-right:20px;">CSS3</span>
-  <span style="font-size:14px;margin-right:20px;">JavaScript</span>
-  <span style="font-size:14px;">Vue.js</span>
+<p align="center" style="margin-bottom: 20px;">
+  <span style="font-size:14px;margin: 0 30px;">HTML5</span>
+  <span style="font-size:14px;margin: 0 30px;">CSS3</span>
+  <span style="font-size:14px;margin: 0 30px;">JavaScript</span>
+  <span style="font-size:14px;margin: 0 30px;">Vue.js</span>
 </p>
 
 ### 🛠️ Backend
-<p align="center" style="margin-bottom: 6px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60"/>
+<p align="center" style="margin-bottom: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" style="margin: 0 25px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60" style="margin: 0 25px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60" style="margin: 0 25px;"/>
 </p>
-<p align="center">
-  <span style="font-size:14px;margin-right:20px;">Node.js</span>
-  <span style="font-size:14px;margin-right:20px;">Express</span>
-  <span style="font-size:14px;">PHP</span>
+<p align="center" style="margin-bottom: 20px;">
+  <span style="font-size:14px;margin: 0 30px;">Node.js</span>
+  <span style="font-size:14px;margin: 0 30px;">Express</span>
+  <span style="font-size:14px;margin: 0 30px;">PHP</span>
 </p>
 
 ### ⚙️ Tools & Language
-<p align="center" style="margin-bottom: 6px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/>
+<p align="center" style="margin-bottom: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" style="margin: 0 30px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" style="margin: 0 30px;"/>
 </p>
-<p align="center">
-  <span style="font-size:14px;margin-right:20px;">Python</span>
-  <span style="font-size:14px;">Java</span>
+<p align="center" style="margin-bottom: 20px;">
+  <span style="font-size:14px;margin: 0 30px;">Python</span>
+  <span style="font-size:14px;margin: 0 30px;">Java</span>
 </p>
 
 ---
