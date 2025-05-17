@@ -1,4 +1,4 @@
-<!-- 상단 배너 크게, 기술 스택 둥근 아이콘 스타일 적용 -->
+<!-- 상단 배너 크게, 기술 스택 둥근 아이콘 스타일 + 서브텍스트 추가 -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6994CD&text=Welcome%20to%20Min-Jung's%20GitHub!&animation=twinkling&height=250&fontSize=60&fontColor=ffffff" width="1000"/>
@@ -43,21 +43,38 @@
 ## 🧰 Tech Stack
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <sub>JavaScript</sub>
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <sub>HTML5</sub>
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <sub>CSS3</sub>
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
+  <sub>Vue.js</sub>
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <sub>Node.js</sub>
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+  <sub>Express</sub>
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+  <sub>PHP</sub>
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <sub>Python</sub>
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <sub>Java</sub>
 </p>
 
 ---
 
 ## ✨ GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mj99k14&theme=react&hide_border=true&ring=F49AC2&fire=F49AC2&currStreakLabel=F49AC2" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=mj99k14&theme=default&hide_border=true&ring=6994CD&fire=6994CD&currStreakLabel=6994CD" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -78,5 +95,5 @@
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-activity-graph.vercel.app/graph?username=mj99k14&theme=github-light&color=6994CD&line=88B4E7&point=1E70BF&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-activity-graph.vercel.app/graph?username=mj99k14&theme=github-light&color=6994CD&line=88B4E7&point=1E70BF&area=true&hide_border=true" alt="mj99k14's Contribution Graph"/>
 </p>
