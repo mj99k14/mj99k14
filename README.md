@@ -49,45 +49,43 @@
 </p>
 
 ---
-
 ## 🧰 Tech Stack
 
 ### 🎨 Frontend
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" style="margin-right: 40px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" style="margin-right: 40px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" style="margin-right: 40px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" hspace="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" hspace="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" hspace="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="60" hspace="30"/>
 </p>
 <p align="center">
-  <span style="display:inline-block; width:80px;">HTML5</span>
-  <span style="display:inline-block; width:80px;">CSS3</span>
-  <span style="display:inline-block; width:100px;">JavaScript</span>
-  <span style="display:inline-block; width:80px;">Vue.js</span>
+  <span style="display:inline-block; width:100px; text-align:center;">HTML5</span>
+  <span style="display:inline-block; width:100px; text-align:center;">CSS3</span>
+  <span style="display:inline-block; width:120px; text-align:center;">JavaScript</span>
+  <span style="display:inline-block; width:100px; text-align:center;">Vue.js</span>
 </p>
 
 ### 🛠️ Backend
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" style="margin-right: 40px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" style="margin-right: 40px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" hspace="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" hspace="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" hspace="40"/>
 </p>
 <p align="center">
-  <span style="display:inline-block; width:80px;">Node.js</span>
-  <span style="display:inline-block; width:100px;">Express</span>
-  <span style="display:inline-block; width:80px;">PHP</span>
+  <span style="display:inline-block; width:100px; text-align:center;">Node.js</span>
+  <span style="display:inline-block; width:120px; text-align:center;">Express</span>
+  <span style="display:inline-block; width:100px; text-align:center;">PHP</span>
 </p>
 
 ### ⚙️ Tools & Language
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" style="margin-right: 40px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" hspace="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" hspace="40"/>
 </p>
 <p align="center">
-  <span style="display:inline-block; width:80px;">Python</span>
-  <span style="display:inline-block; width:80px;">Java</span>
+  <span style="display:inline-block; width:100px; text-align:center;">Python</span>
+  <span style="display:inline-block; width:100px; text-align:center;">Java</span>
 </p>
-
 
 ---
 
