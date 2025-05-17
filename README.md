@@ -22,16 +22,6 @@
 
 ---
 
-## 👋 About Me
-
-<p align="center">
-  I am passionate about combining AI technology with sports and healthcare. <br>
-  Currently developing real-time posture analysis systems and autonomous RC car projects.<br>
-  My goal is to create accessible and efficient training tools using AI and web technology.
-</p>
-
----
-
 ## 🌐 Let's Connect
 <p align="center">
   <a href="https://github.com/mj99k14">
