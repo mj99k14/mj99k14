@@ -59,10 +59,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="60" hspace="30"/>
 </p>
 <p align="center">
-  <span style="display:inline-block; width:100px; text-align:center;">HTML5</span>
-  <span style="display:inline-block; width:100px; text-align:center;">CSS3</span>
-  <span style="display:inline-block; width:120px; text-align:center;">JavaScript</span>
-  <span style="display:inline-block; width:100px; text-align:center;">Vue.js</span>
+ <span style="display:inline-block; width:100px; text-align:center; font-size:20px;">HTML5</span>
+  <span style="display:inline-block; width:100px; text-align:center; font-size:20px;">CSS3</span>
+  <span style="display:inline-block; width:120px; text-align:center; font-size:20px;">JavaScript</span>
+  <span style="display:inline-block; width:100px; text-align:center; font-size:20px;">Vue.js</span>
 </p>
 
 ### 🛠️ Backend
@@ -72,9 +72,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" hspace="40"/>
 </p>
 <p align="center">
-  <span style="display:inline-block; width:100px; text-align:center;">Node.js</span>
-  <span style="display:inline-block; width:120px; text-align:center;">Express</span>
-  <span style="display:inline-block; width:100px; text-align:center;">PHP</span>
+  <span style="display:inline-block; width:100px; text-align:center;font-size:20px;">Node.js</span>
+  <span style="display:inline-block; width:120px; text-align:center;font-size:20px;">Express</span>
+  <span style="display:inline-block; width:100px; text-align:center;font-size:20px;">PHP</span>
 </p>
 
 ### ⚙️ Tools & Language
@@ -83,8 +83,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" hspace="40"/>
 </p>
 <p align="center">
-  <span style="display:inline-block; width:100px; text-align:center;">Python</span>
-  <span style="display:inline-block; width:100px; text-align:center;">Java</span>
+  <span style="display:inline-block; width:100px; text-align:center;font-size:20px;">Python</span>
+  <span style="display:inline-block; width:100px; text-align:center;font-size:20px;">Java</span>
 </p>
 
 ---
