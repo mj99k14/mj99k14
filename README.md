@@ -53,43 +53,40 @@
 ## 🧰 Tech Stack
 
 ### 🎨 Frontend
-<div align="center" style="display: flex; gap: 40px; justify-content: center; align-items: center;">
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="90" height="90"/><br/>HTML5
-  </div>
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="90" height="90"/><br/>CSS3
-  </div>
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="90" height="90"/><br/>JavaScript
-  </div>
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="90" height="90"/><br/>Vue.js
-  </div>
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" style="margin-right: 40px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" style="margin-right: 40px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" style="margin-right: 40px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="60"/>
+</p>
+<p align="center">
+  <span style="display:inline-block; width:80px;">HTML5</span>
+  <span style="display:inline-block; width:80px;">CSS3</span>
+  <span style="display:inline-block; width:100px;">JavaScript</span>
+  <span style="display:inline-block; width:80px;">Vue.js</span>
+</p>
 
 ### 🛠️ Backend
-<div align="center" style="display: flex; gap: 40px; justify-content: center; align-items: center;">
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="90" height="90"/><br/>Node.js
-  </div>
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="90" height="90"/><br/>Express
-  </div>
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="90" height="90"/><br/>PHP
-  </div>
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" style="margin-right: 40px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" style="margin-right: 40px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60"/>
+</p>
+<p align="center">
+  <span style="display:inline-block; width:80px;">Node.js</span>
+  <span style="display:inline-block; width:100px;">Express</span>
+  <span style="display:inline-block; width:80px;">PHP</span>
+</p>
 
 ### ⚙️ Tools & Language
-<div align="center" style="display: flex; gap: 40px; justify-content: center; align-items: center;">
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="90" height="90"/><br/>Python
-  </div>
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="90" height="90"/><br/>Java
-  </div>
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" style="margin-right: 40px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/>
+</p>
+<p align="center">
+  <span style="display:inline-block; width:80px;">Python</span>
+  <span style="display:inline-block; width:80px;">Java</span>
+</p>
 
 
 ---
