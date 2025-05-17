@@ -1,7 +1,5 @@
-<!-- 상단 배너 + Tech Stack 카테고리별 구분 + 이미지 크기 확대 (width=60) -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6994CD&text=Welcome%20to%20Min-Jung's%20GitHub!&animation=twinkling&height=250&fontSize=60&fontColor=ffffff" width="1000"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6994CD&text=Welcome%20to%20Min-Jung's%20GitHub!&animation=twinkling&height=250&fontSize=60&fontColor=FFFFFF&fontAlign=center" width="1000"/>
 </p>
 
 <h1 align="center">🐼 Kim Min-Jung 🍀</h1>
@@ -18,6 +16,16 @@
 
 <p align="center">
   📧 <a href="mailto:ekfkawnl644@gmail.com">ekfkawnl644@gmail.com</a>
+</p>
+
+---
+
+## 👋 About Me
+
+<p align="center">
+  I am passionate about combining AI technology with sports and healthcare. <br>
+  Currently developing real-time posture analysis systems and autonomous RC car projects.<br>
+  My goal is to create accessible and efficient training tools using AI and web technology.
 </p>
 
 ---
@@ -45,37 +53,37 @@
 ### 🎨 Frontend
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
-  <sub>HTML5</sub>
+  <br><span style="font-size:14px">HTML5</span>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
-  <sub>CSS3</sub>
+  <br><span style="font-size:14px">CSS3</span>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
-  <sub>JavaScript</sub>
+  <br><span style="font-size:14px">JavaScript</span>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="60" height="60"/>
-  <sub>Vue.js</sub>
+  <br><span style="font-size:14px">Vue.js</span>
 </p>
 
 ### 🛠️ Backend
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60"/>
-  <sub>Node.js</sub>
+  <br><span style="font-size:14px">Node.js</span>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60"/>
-  <sub>Express</sub>
+  <br><span style="font-size:14px">Express</span>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60"/>
-  <sub>PHP</sub>
+  <br><span style="font-size:14px">PHP</span>
 </p>
 
 ### ⚙️ Tools & Language
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
-  <sub>Python</sub>
+  <br><span style="font-size:14px">Python</span>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/>
-  <sub>Java</sub>
+  <br><span style="font-size:14px">Java</span>
 </p>
 
 ---
