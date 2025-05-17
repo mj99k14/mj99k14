@@ -41,34 +41,28 @@
 ---
 
 ## 🧰 Tech Stack
+
+### 🎨 Frontend
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <sub>JavaScript</sub>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <sub>HTML5</sub>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <sub>CSS3</sub>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
-  <sub>Vue.js</sub>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <sub>Node.js</sub>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
-  <sub>Express</sub>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-  <sub>PHP</sub>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <sub>Python</sub>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <sub>Java</sub>
+  <img src="..." width="40"/> <sub>HTML5</sub>
+  <img src="..." width="40"/> <sub>CSS3</sub>
+  <img src="..." width="40"/> <sub>JavaScript</sub>
+  <img src="..." width="40"/> <sub>Vue.js</sub>
 </p>
+
+### 🛠️ Backend
+<p align="center">
+  <img src="..." width="40"/> <sub>Node.js</sub>
+  <img src="..." width="40"/> <sub>Express</sub>
+  <img src="..." width="40"/> <sub>PHP</sub>
+</p>
+
+### ⚙️ Tools & Language
+<p align="center">
+  <img src="..." width="40"/> <sub>Python</sub>
+  <img src="..." width="40"/> <sub>Java</sub>
+</p>
+
 
 ---
 
