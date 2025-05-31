@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6994CD&text=Welcome%20to%20Min-Jung's%20GitHub!&animation=twinkling&height=250&fontSize=60&fontColor=FFFFFF&fontAlign=center" width="1000"/>
 </p>
 
-<h1 align="center">🐼 Kim Min-Jung 🍀</h1>
+<h1 align="center"> Kim Min-Jung🐼🍀</h1>
 
 <p align="center">
   🎓 <b>Fuji University</b> Economics Graduate &nbsp;|&nbsp;
