@@ -99,6 +99,13 @@
 
 ---
 
+## ⏱️ WakaTime Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=네_WakaTime_아이디&theme=default&hide_border=true&bg_color=ffffff&title_color=6994CD&icon_color=6994CD" alt="WakaTime Stats"/>
+</p>
+
+---
+
 ## 👀 Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mj99k14&style=flat-square&color=blue" alt="Visitor Badge"/>
