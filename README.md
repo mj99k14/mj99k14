@@ -1,10 +1,6 @@
-
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6994CD&text=Welcome%20to%20Min-Jung's%20GitHub!&animation=twinkling&height=250&fontSize=60&fontColor=FFFFFF&fontAlign=center" width="1000"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=A7E7E5&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=Min-Jung's%20GitHub&descAlign=70&descAlignY=44&fontColor=ffffff&descColor=ffffff" width="100%"/>
 </p>
-
-<h1 align="center"> Kim Min-Jung🐼🍀</h1>
 
 <p align="center">
   🎓 <b>Fuji University</b> Economics Graduate &nbsp;|&nbsp;
@@ -12,9 +8,7 @@
   🏀 <b>Former Samsung Basketball Player</b>
 </p>
 
-<p align="center">
-  🌐 KR 🇰 / JP 🇯
-</p>
+<p align="center">🌐 KR 🇰 / JP 🇯</p>
 
 <p align="center">
   📧 <a href="mailto:ekfkawnl644@gmail.com">ekfkawnl644@gmail.com</a>
@@ -25,96 +19,79 @@
 ## 🌐 Let's Connect
 <p align="center">
   <a href="https://github.com/mj99k14">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/GitHub-99CCFF?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/minjung_K13/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/Instagram-FFB6C1?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:ekfkawnl644@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/Gmail-FF9999?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://zenn.dev/kmj13">
-    <img src="https://img.shields.io/badge/Zenn-3EA8FF?style=flat&logo=zenn&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/Zenn-A7E7E5?style=for-the-badge&logo=zenn&logoColor=white"/>
   </a>
 </p>
 
 ---
+
 ## 🧰 Tech Stack
 
 ### 🎨 Frontend
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" title="HTML5"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" title="CSS3"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" title="JavaScript"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="60" title="Vue.js"/>
-</p>
-<p align="center">
-  <b>HTML5</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>CSS3</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>JavaScript</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Vue.js</b>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" title="Vue.js"/>
 </p>
 
 ### 🛠️ Backend
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" title="Node.js"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" title="Express"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" title="PHP"/>
-</p>
-<p align="center">
-  <b>Node.js</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Express</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>PHP</b>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" title="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" title="PHP"/>
 </p>
 
-### ⚙️ Tools & Language
+### ⚙️ Tools & Languages
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" title="Python"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" title="Java"/>
-</p>
-<p align="center">
-  <b>Python</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Java</b>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java"/>
 </p>
 
 ---
 
-## ✨ GitHub Stats
+## 🚀 Featured Projects
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mj99k14&theme=default&hide_border=true&ring=6994CD&fire=6994CD&currStreakLabel=6994CD" alt="GitHub Streak"/>
+  <a href="https://github.com/mj99k14/self-driving-rc-car">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mj99k14&repo=self-driving-rc-car&theme=vue&bg_color=ffffff&title_color=4DB6AC&icon_color=4DB6AC" />
+  </a>
+  <a href="https://github.com/mj99k14/webcam-upgrade">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mj99k14&repo=webcam-upgrade&theme=vue&bg_color=ffffff&title_color=4DB6AC&icon_color=4DB6AC" />
+  </a>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## ✨ GitHub Stats & 🏆 Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mj99k14&theme=transparent&no-frame=true&margin-w=15&column=4&title=Commit,Followers,Repositories,Experience" alt="GitHub Trophies"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mj99k14&theme=vue" height="200"/>
 </p>
 
 ---
 
 ## ⏱️ WakaTime Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mj99k14&theme=default&hide_border=true&bg_color=ffffff&title_color=6994CD&icon_color=6994CD" alt="WakaTime Stats"/>
-</p>
-
-
----
-
-## 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mj99k14&style=flat-square&color=blue" alt="Visitor Badge"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mj99k14&theme=default&hide_border=true&bg_color=ffffff&title_color=A7E7E5&icon_color=A7E7E5" height="300"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📊 Contribution Graph
 <p align="center">
-  <img src="https://github-activity-graph.vercel.app/graph?username=mj99k14&theme=github-light&color=6994CD&line=88B4E7&point=1E70BF&area=true&hide_border=true" alt="mj99k14's Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mj99k14&bg_color=ffffff&color=4DB6AC&line=87CEEB&point=FFB6C1&area=true&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mj99k14&style=flat-square&color=A7E7E5" alt="Visitor Badge"/>
 </p>
