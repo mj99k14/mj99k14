@@ -80,9 +80,9 @@
 
 ## ⏱️ WakaTime Stats
 <p align="center">
- ![WakaTime languages](https://github-readme-stats.vercel.app/api/wakatime?username=mj99k14&layout=compact&theme=tokyonight)
-
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mj99k14&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
