@@ -30,9 +30,6 @@
   <a href="https://zenn.dev/kmj13">
     <img src="https://img.shields.io/badge/Zenn-A7E7E5?style=for-the-badge&logo=zenn&logoColor=white"/>
   </a>
-  <a href="https://github.com/mj99k14/gas-attendance-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mj99k14&repo=gas-attendance-system&theme=vue&bg_color=ffffff&title_color=4DB6AC&icon_color=4DB6AC" />
-  </a>
 </p>
 
 ---
@@ -71,6 +68,9 @@
   </a>
   <a href="https://github.com/mj99k14/webcam-upgrade">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mj99k14&repo=webcam-upgrade&theme=vue&bg_color=ffffff&title_color=4DB6AC&icon_color=4DB6AC" />
+  </a>
+  <a href="https://github.com/mj99k14/gas-attendance-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mj99k14&repo=gas-attendance-system&theme=vue&bg_color=ffffff&title_color=4DB6AC&icon_color=4DB6AC" />
   </a>
 </p>
 
