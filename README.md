@@ -30,6 +30,9 @@
   <a href="https://zenn.dev/kmj13">
     <img src="https://img.shields.io/badge/Zenn-A7E7E5?style=for-the-badge&logo=zenn&logoColor=white"/>
   </a>
+  <a href="https://github.com/mj99k14/gas-attendance-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mj99k14&repo=gas-attendance-system&theme=vue&bg_color=ffffff&title_color=4DB6AC&icon_color=4DB6AC" />
+  </a>
 </p>
 
 ---
@@ -49,6 +52,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" title="Express"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" title="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="50" title="Ruby"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="60" title="Ruby on Rails"/>
 </p>
 
 ### ⚙️ Tools & Languages
