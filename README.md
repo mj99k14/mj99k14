@@ -36,11 +36,12 @@
 ```ts
 type TechStack = {
   languages: ["JavaScript", "TypeScript", "Python", "Java"];
-  frontend: ["Vue","React"];
-  backend: ["Node.js", "Express", "Ruby on Rails"];
-  database: ["MySQL"];
+  frontend: ["Vue", "React", "Vite"];
+  backend: ["Node.js", "Express", "Ruby on Rails", "FastAPI"];
+  database: ["MySQL", "PostgreSQL"];
   protocol: ["REST", "gRPC"];
-  tools: ["Git", "Docker"];
+  tools: ["Git", "Docker", "GitHub Actions"];
+  orm: ["SQLAlchemy"];
 };
 ```
 
