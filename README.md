@@ -36,7 +36,7 @@
 ```ts
 type TechStack = {
   languages: ["JavaScript", "TypeScript", "Python", "Java"];
-  frontend: ["Vue"];
+  frontend: ["Vue","React"];
   backend: ["Node.js", "Express", "Ruby on Rails"];
   database: ["MySQL"];
   protocol: ["REST", "gRPC"];
